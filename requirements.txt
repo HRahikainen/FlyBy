@@ -1,0 +1,14 @@
+Adafruit-Blinka==0.3.0
+adafruit-circuitpython-neopixel==3.3.4
+Adafruit-GPIO==1.0.3
+Adafruit-PureIO==0.2.3
+firebase-admin==2.13.0
+google-api-core==1.5.2
+google-auth==1.6.1
+google-cloud-core==0.28.1
+google-cloud-firestore==0.30.0
+google-cloud-storage==1.13.0
+google-resumable-media==0.3.1
+googleapis-common-protos==1.5.5
+pyfcm==1.4.5
+rpi-ws281x==4.1.0
