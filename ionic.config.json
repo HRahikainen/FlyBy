@@ -1,0 +1,7 @@
+{
+  "name": "flybyfb",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

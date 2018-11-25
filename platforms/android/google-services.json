@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77937676033",
+    "firebase_url": "https://flybyworking.firebaseio.com",
+    "project_id": "flybyworking",
+    "storage_bucket": "flybyworking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77937676033:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77937676033-lqlp2olo5gq606qbm8elga4qptu1lq4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1-cSeozka07_qBEdcCbjArN5wRkmzVyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
