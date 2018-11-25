@@ -1,4 +1,5 @@
 # FlyBy
+![cover picture](./flyby.png)
 #### Junction 2018 Data Economics Poplatek Challenge Awesome Hack
 
 We decided to focus on cafeteria and lunch restaurants where transactions should be as fast and frictionless as possible. By using your feet (or other body parts) to pay instead of hands you can fly through serving lines.
